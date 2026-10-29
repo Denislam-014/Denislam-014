@@ -1,16 +1,44 @@
-## Hi there 👋
+Junior QA Engineer Portfolio
 
-<!--
-**Denislam-014/Denislam-014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+I am a beginner QA Engineer learning software testing and quality assurance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository contains my educational QA projects and practical examples.
+
+Skills
+
+* Manual Testing
+* Writing Test Cases
+* Creating Checklists
+* Bug Reporting
+* Functional Testing
+* Regression Testing
+* Basic SQL (in progress)
+* API Testing (in progress)
+
+Projects
+
+1. Online Store Testing
+
+Educational project focused on testing the functionality of an online store.
+
+Includes:
+
+* Checklists
+* Test Cases
+* Bug Reports
+* Test Results
+
+Tools
+
+* GitHub
+* Google Sheets
+* Postman (learning)
+* SQL (learning)
+
+Goal
+
+To develop practical QA skills and obtain my first position as a Junior QA Engineer.
+
+Note: Educational project. Test results and defects will be documented as part of the learning process.
